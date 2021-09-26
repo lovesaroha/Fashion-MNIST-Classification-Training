@@ -19,6 +19,9 @@ py -m pip install matplotlib
 ```bash
 py convolutional_neural_network.py
 ```
+```bash
+py simple_neural_network.py
+```
 
 
 
